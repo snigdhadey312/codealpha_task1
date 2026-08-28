@@ -1,0 +1,21 @@
+country,state,city,station,last_update,latitude,longitude,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,month,year,month_number
+India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",2026-08-23 11:00:00,28.376058,77.315741,PM2.5,29.0,397.0,234.0,2026-08,2026,8
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",2026-08-23 11:00:00,28.647622,77.315809,PM10,58.0,485.0,210.0,2026-08,2026,8
+India,Bihar,Bhagalpur,"Mayaganj, Bhagalpur - BSPCB",2026-08-23 11:00:00,25.265194,87.012947,PM2.5,13.0,486.0,192.0,2026-08,2026,8
+India,Ladakh,Leh,"Skara Yokma, Leh - LPCC",2026-08-23 11:00:00,34.147096,77.55709,CO,186.0,187.0,187.0,2026-08,2026,8
+India,Tamil Nadu,Chennai,"Manali Village, Chennai - TNPCB",2026-08-23 11:00:00,13.1662,80.2584,OZONE,15.0,300.0,187.0,2026-08,2026,8
+India,Ladakh,Leh,"Skara Yokma, Leh - LPCC",2026-08-23 11:00:00,34.147096,77.55709,OZONE,76.0,301.0,172.0,2026-08,2026,8
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",2026-08-23 11:00:00,30.649961,76.331442,PM10,75.0,195.0,161.0,2026-08,2026,8
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",2026-08-23 11:00:00,28.699793,77.165453,PM10,67.0,286.0,160.0,2026-08,2026,8
+India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",2026-08-23 11:00:00,28.376058,77.315741,PM10,34.0,288.0,159.0,2026-08,2026,8
+India,Bihar,Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",2026-08-23 11:00:00,25.251013,86.989001,PM10,24.0,473.0,158.0,2026-08,2026,8
+India,Bihar,Bhagalpur,"Mayaganj, Bhagalpur - BSPCB",2026-08-23 11:00:00,25.265194,87.012947,PM10,21.0,433.0,147.0,2026-08,2026,8
+India,Uttar Pradesh,Noida,"Sector - 125, Noida - UPPCB",2026-08-23 11:00:00,28.5447608,77.3231257,PM10,30.0,410.0,145.0,2026-08,2026,8
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",2026-08-23 11:00:00,28.5710274,77.0719006,PM10,59.0,274.0,142.0,2026-08,2026,8
+India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",2026-08-23 11:00:00,28.4275,77.1465,PM2.5,13.0,498.0,136.0,2026-08,2026,8
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",2026-08-23 11:00:00,28.360699,76.93609,PM2.5,73.0,305.0,134.0,2026-08,2026,8
+India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",2026-08-23 11:00:00,30.379589,76.778328,PM10,40.0,418.0,134.0,2026-08,2026,8
+India,Uttar Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",2026-08-23 11:00:00,28.557054,77.453663,PM10,39.0,204.0,134.0,2026-08,2026,8
+India,Bihar,Begusarai,"Lohiyanagar, Begusarai - BSPCB",2026-08-23 11:00:00,25.42742023,86.13886079,PM10,89.0,186.0,133.0,2026-08,2026,8
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",2026-08-23 11:00:00,28.73282,77.170633,PM10,48.0,214.0,133.0,2026-08,2026,8
+India,Rajasthan,Sikar,"Radhakishan Pura, Sikar - RSPCB",2026-08-23 11:00:00,27.608912,75.153302,PM10,98.0,161.0,131.0,2026-08,2026,8

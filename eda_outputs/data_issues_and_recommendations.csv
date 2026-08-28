@@ -1,0 +1,7 @@
+Issue,Observation,Recommended Action
+Direct AQI column,No direct official AQI column is available.,Do not call this official AQI analysis.
+Missing values,Missing values were checked and handled for analysis.,Verify missing-value treatment before advanced modelling.
+Duplicate records,Exact duplicate rows were removed.,Keep a record of removed duplicates.
+Potential outliers,IQR method identified potential extreme observations.,Investigate whether extreme values are errors or genuine events.
+Different pollutant scales,Pollutants may use different units and should not be compared directly without context.,Use pollutant-specific standards or verified AQI breakpoints.
+Station coverage,Cities with more monitoring stations may have more observations.,"Interpret city rankings as observed patterns, not complete health-risk rankings."

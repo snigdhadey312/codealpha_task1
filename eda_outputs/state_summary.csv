@@ -1,0 +1,32 @@
+state,average_pollution,median_pollution,maximum_pollution,cities,stations,records
+Ladakh,63.0,20.0,301.0,1,1,7
+Himachal Pradesh,45.57,24.0,425.0,1,1,7
+Delhi,38.94,25.0,485.0,1,45,315
+Haryana,37.14,22.0,500.0,25,29,203
+Punjab,36.29,26.0,211.0,7,7,49
+Jharkhand,32.21,20.0,131.0,2,2,14
+Bihar,31.06,20.0,486.0,20,28,196
+Rajasthan,29.54,20.0,219.0,35,47,329
+Gujarat,29.33,20.0,186.0,11,21,147
+Andhra Pradesh,28.67,22.0,353.0,12,14,98
+Uttar Pradesh,27.87,20.0,488.0,27,64,448
+Tamil Nadu,27.31,20.0,359.0,5,12,84
+Madhya Pradesh,26.96,20.0,171.0,14,24,168
+West Bengal,25.68,20.5,416.0,7,22,154
+Odisha,25.22,20.0,247.0,13,16,112
+Kerala,24.69,15.0,121.0,4,5,35
+Assam,23.73,14.0,236.0,6,9,63
+Tripura,23.29,20.0,96.0,1,1,7
+Karnataka,22.24,20.0,211.0,15,23,161
+Telangana,21.38,17.0,168.0,1,13,91
+Jammu and Kashmir,21.14,20.0,84.0,2,3,21
+Chhattisgarh,20.1,16.0,168.0,8,13,91
+Maharashtra,18.54,15.0,331.0,35,86,602
+Puducherry,18.29,18.0,69.0,1,1,7
+Nagaland,18.14,16.0,79.0,1,1,7
+Uttarakhand,17.19,18.0,92.0,3,3,21
+Chandigarh,16.57,15.0,71.0,1,3,21
+Meghalaya,16.48,20.0,61.0,2,3,21
+Arunachal Pradesh,15.57,9.0,73.0,1,1,7
+Mizoram,8.43,3.0,26.0,1,1,7
+Sikkim,7.57,2.0,26.0,1,1,7

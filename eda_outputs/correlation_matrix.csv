@@ -1,0 +1,4 @@
+,pollutant_min,pollutant_max,pollutant_avg
+pollutant_min,1.0,0.533,0.812
+pollutant_max,0.533,1.0,0.878
+pollutant_avg,0.812,0.878,1.0
